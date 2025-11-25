@@ -1,0 +1,14 @@
+{
+  "name": "lunara",
+  "version": "1.0.0",
+  "description": "Embark on a breathtaking journey through the cosmos - exploring the universe like never before",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "three": "^0.171.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0"
+  }
+}
